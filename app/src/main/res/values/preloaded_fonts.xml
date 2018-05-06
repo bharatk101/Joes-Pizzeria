@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/architects_daughter</item>
+        <item>@font/calligraffitti</item>
+        <item>@font/carter_one</item>
+        <item>@font/comfortaa</item>
+        <item>@font/freckle_face</item>
+        <item>@font/montserrat</item>
+        <item>@font/seaweed_script</item>
+    </array>
+
+    <string name="slide_1_title">Welcome to Pizzeria App!</string>
+    <string name="slide_1_desc">The easiest way to order mouth watering pizzas and foods is here!!</string>
+
+    <string name="slide_2_title">Amazing Combinations</string>
+    <string name="slide_2_desc">Enjoy the combination of pizzas,drinks and sides with your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single pizza we offer!</string>
+
+    <string name="slide_4_title">Instant Notification!</string>
+    <string name="slide_4_desc">Know more about the orders you place with our app!</string>
+</resources>
